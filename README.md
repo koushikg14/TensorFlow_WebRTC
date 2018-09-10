@@ -1,0 +1,1 @@
+This is an example of how to turn the TensorFlow Object API into a web service. A Python Flask web server is used to interact with a JavaScript a client library. The example shows how you can extract frames from WebRTC's getUserMedia, upload them to the API, and then use the canvas to display them. This allows use of the TensorFlow Object API on any HTML <video> element.
